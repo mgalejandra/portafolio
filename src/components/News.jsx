@@ -52,7 +52,7 @@ const News = () => {
               <div className="details">
                 <div className="extra">
                   <p className="date">
-                    By <a href="#">Alex Watson</a>
+                {/*     By <a href="#">Alex Watson</a> */}
                     <span>05 April 2021</span>
                   </p>
                 </div>
@@ -62,9 +62,9 @@ const News = () => {
                   Format releases a new tool that enables direct video hosting
                 </h3>
                 <div className="tokyo_tm_read_more">
-                  <a onClick={toggleModalOne}>
+                {/*   <a onClick={toggleModalOne}>
                     <span>Read More</span>
-                  </a>
+                  </a> */}
                 </div>
                 {/* END READ MORE BUTTON */}
               </div>
@@ -99,7 +99,7 @@ const News = () => {
                       <div className="details">
                         <div className="extra">
                         <p className="date">
-                            By <a href="#">Alex Watson</a>
+                           {/*  By <a href="#">Alex Watson</a> */}
                             <span>05 April 2021</span>
                           </p>
                         </div>
@@ -206,7 +206,7 @@ const News = () => {
               <div className="details">
                 <div className="extra">
                   <p className="date">
-                    By <a href="#">Brook Kennedy</a>
+              {/*       By <a href="#">Brook Kennedy</a> */}
                     <span>22 March 2021</span>
                   </p>
                 </div>
@@ -216,9 +216,9 @@ const News = () => {
                   Sony announced two new full frame cameras with zero fanfare
                 </h3>
                 <div className="tokyo_tm_read_more">
-                  <a onClick={toggleModalTwo}>
+                {/*   <a onClick={toggleModalTwo}>
                     <span>Read More</span>
-                  </a>
+                  </a> */}
                 </div>
                 {/* END READ MORE BUTTON */}
               </div>
@@ -251,7 +251,7 @@ const News = () => {
                       <div className="details">
                         <div className="extra">
                           <p className="date">
-                            By <a href="#">Brook Kennedy</a>
+                      {/*       By <a href="#">Brook Kennedy</a> */}
                             <span>22 March 2021</span>
                           </p>
                         </div>
@@ -357,7 +357,7 @@ const News = () => {
               <div className="details">
                 <div className="extra">
                   <p className="date">
-                    By <a href="#">Paola Atkins</a>
+                  {/*   By <a href="#">Paola Atkins</a> */}
                     <span>15 Feb 2021</span>
                   </p>
                 </div>
@@ -366,9 +366,9 @@ const News = () => {
                   Why every photographer should shoot film, even in 2021
                 </h3>
                 <div className="tokyo_tm_read_more">
-                  <a onClick={toggleModalThree}>
+                {/*   <a onClick={toggleModalThree}>
                     <span>Read More</span>
-                  </a>
+                  </a> */}
                 </div>
               </div>
               {/* END DETAILS */}
@@ -400,7 +400,7 @@ const News = () => {
                       <div className="details">
                         <div className="extra">
                           <p className="date">
-                            By <a href="#">Paola Atkins</a>
+                         {/*    By <a href="#">Paola Atkins</a> */}
                             <span>15 Feb 2021</span>
                           </p>
                         </div>
@@ -502,7 +502,7 @@ const News = () => {
               <div className="details">
                 <div className="extra">
                   <p className="date">
-                    By <a href="#">Kevin Stone</a>
+            {/*         By <a href="#">Kevin Stone</a> */}
                     <span>22 Jan 2021</span>
                   </p>
                 </div>
@@ -512,9 +512,9 @@ const News = () => {
                   Stay creative in lockdown with these fun photo projects
                 </h3>
                 <div className="tokyo_tm_read_more">
-                  <a onClick={toggleModalFour}>
+             {/*      <a onClick={toggleModalFour}>
                     <span>Read More</span>
-                  </a>
+                  </a> */}
                 </div>
               </div>
               {/* END DETAILS */}

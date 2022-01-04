@@ -3,7 +3,6 @@ import { useState } from "react";
 import ReactMapGL from "react-map-gl";
 import emailjs from "emailjs-com";
 
-import{ init } from '@emailjs/browser';
 
 const Contact = () => {
   const [viewport, setViewport] = useState({

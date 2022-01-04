@@ -13,7 +13,7 @@ const Preview = () => {
           <a
             href="https://github.com/mgalejandra"
             target="_blank"
-            className="pricing-info anim"
+            className="pricing-info anim" rel="noreferrer"
           >
         GIT
           </a>
