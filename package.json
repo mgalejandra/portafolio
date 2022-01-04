@@ -2,7 +2,7 @@
   "name": "PORTAFOLIO",
   "version": "1.1.0",
   "private": true,
-  "homepage": "https://mgalejandra.github.io/mgalejandra.github.io",
+  "homepage": "https://mgalejandra.github.io/portafolio",
   "dependencies": {
     "@emailjs/browser": "^3.3.1",
     "@testing-library/jest-dom": "^5.11.4",
